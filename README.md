@@ -10,6 +10,6 @@ https://surbhi1511-yadav.github.io/Text-To-Speech-Convertor/
 ![Screenshot (2)](https://user-images.githubusercontent.com/60219136/154838021-50716fdf-03c0-41d3-9cfd-f508fb6acd2e.png)
 
 # Build With :
-1.HTML
-2.CSS
-3.JavaScript
+*HTML
+*CSS
+*JavaScript
